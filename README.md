@@ -1,4 +1,3 @@
-iOS-File-Browser
-================
+Explore some iOS 8 files with no problems
 
-iOS file browser that lets you quickly explore the file system and mail interesting files to yourself
+© Matt Piscopo
